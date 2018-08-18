@@ -21,3 +21,14 @@ Este é o diário requisitado na [Tarefa 01](https://github.com/arielril/model-d
 Este diário será organizado por datas de trabalho. Em cada descrição de data de trabalho será dada uma visão detalhada dos passos que foram necessários para completar a(s) tarefa(s) realizada(s) naquele dia.
 
 O diário será escrito em Markdown para facilitar a descrição/apresentação das tarefas e para que seja possível visualizá-lo dentro do **GitHub** sem ter que sair da plataforma escolhida.
+
+
+## 18 de Agosto de 2018
+
+### [Tarefa 5](https://github.com/arielril/model-driven-soft-eng-class/issues/5)
+
+#### Responder questionário 01
+
+Para responder o questionário foi realizado uma leitura dos arquivos **Problems and opportunities.pdf** and **An introdution to Model Driven Architecture - Brown** presentes na pasta *important-files* na raiz do projeto.
+
+As respostas entregues ao professor estão no arquivo **exercises5.md** na pasta *week3* na raiz do projeto.
