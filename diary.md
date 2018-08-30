@@ -70,4 +70,22 @@ package: com.example
 
 Para fazer o build do projeto executei `astah-build`. Executou com sucesso!
 
+## 27 de Agosto de 2018
 
+Decidi realizar a implementação de um plugin para Eclipse.
+
+Para criar a pasta do projeto do plugin foi necessário instalar o [Eclipse Plugin Development Environment](https://www.eclipse.org/pde/). Depois de instalar foi adicionado um menu a mais no momento de escolher o tipo do projeto a ser criado no Eclipse.
+
+O plugin decidido a ser implementado foi um plugin que realiza a contagem dos métodos em um Workspace e diz quantas chamadas são feitas para cada método.
+
+## 29 de Agosto de 2018
+
+Durante a implementação do plugin foi descoberto um tutorial relacionado, o qual realiza a manipulação da árvore sintática.
+
+[Clique aqui](https://www.programcreek.com/2012/06/count-total-number-of-methods-in-a-java-project/) para verificar o tutorial.
+
+## 30 de Agosto de 2018
+
+Foi realizado a adição do plugin dentro deste projeto e realizado a primeira release do plugin, a qual esta posicionada na parte de releases do projeto master.
+
+[Clique aqui](https://github.com/arielril/model-driven-soft-eng-class/tree/master/org.plugin.method-counter) para verificar o repositório do plugin.
