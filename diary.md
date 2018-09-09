@@ -94,4 +94,4 @@ Foi realizado a adição do plugin dentro deste projeto e realizado a primeira r
 
 Realizado a criação das *issues* referente à semana 6 de aula. As *issues* estão no repositório referenciado na primeira (#1) tarefa e estão associados ao *GitHub Project* também criado na primeira (#1) tarefa.
 
-Para executar a tarefa especificada na *issue* #9 foi utilizado a plataforma de planejamento de projetos **Trello**, o qual está servindo o [quadro de tarefas](https://trello.com/b/8BS2JIN4) referenciado na *Tarefa 9 (#9)*
+Para executar a tarefa especificada na *issue* [#10](https://github.com/arielril/model-driven-soft-eng-class/issues/10) foi utilizado a plataforma de planejamento de projetos **Trello**, o qual está servindo o [quadro de tarefas](https://trello.com/b/8BS2JIN4) referenciado na *Tarefa 10 ([#10](https://github.com/arielril/model-driven-soft-eng-class/issues/10))*
