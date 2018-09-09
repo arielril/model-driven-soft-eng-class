@@ -14,14 +14,13 @@ Na criação do repositório foi utilizado a plataforma de hospedagem de código
 
 O quadro de tarefas foi criado utilizando uma funcionalidade do **GitHub** conhecida como **Projects**. Na criação do quadro de tarefas foi utilizado um template (*Automated Kanban*) para que o quadro de tarefas já realize automações baseado nas *issues* criadas no repositório.
 
-#### Diário
+#### Criação do Diário
 
 Este é o diário requisitado na [Tarefa 01](https://github.com/arielril/model-driven-soft-eng-class/issues/1).
 
 Este diário será organizado por datas de trabalho. Em cada descrição de data de trabalho será dada uma visão detalhada dos passos que foram necessários para completar a(s) tarefa(s) realizada(s) naquele dia.
 
 O diário será escrito em Markdown para facilitar a descrição/apresentação das tarefas e para que seja possível visualizá-lo dentro do **GitHub** sem ter que sair da plataforma escolhida.
-
 
 ## 18 de Agosto de 2018
 
@@ -45,6 +44,7 @@ set_astah_env() {
   export PATH=$ASDK_HOME/bin:$PATH ;
 }
 ```
+
 E também foi preciso atribuir a variável de ambiente referente ao diretório do Java no meu computador.
 
 ```shell
@@ -55,7 +55,7 @@ Para setar as variáveis de ambiente é apenas preciso executar o comando `set_a
 
 Em seguida criei um projeto para o plugin executando o seguinte comando `astah-generate-project`. Quando apareceu algo para atribuir nomes seguiu este exemplo
 
-```
+```text
 Define value for property 'groupId': : com.example
 Define value for property 'artifactId': : eng-plugin
 Define value for property 'version':  1.0-SNAPSHOT: :
@@ -89,3 +89,9 @@ Durante a implementação do plugin foi descoberto um tutorial relacionado, o qu
 Foi realizado a adição do plugin dentro deste projeto e realizado a primeira release do plugin, a qual esta posicionada na parte de releases do projeto master.
 
 [Clique aqui](https://github.com/arielril/model-driven-soft-eng-class/tree/master/org.plugin.method-counter) para verificar o repositório do plugin.
+
+## 9 de Setembro de 2018
+
+Realizado a criação das *issues* referente à semana 6 de aula. As *issues* estão no repositório referenciado na primeira (#1) tarefa e estão associados ao *GitHub Project* também criado na primeira (#1) tarefa.
+
+Para executar a tarefa especificada na *issue* #9 foi utilizado a plataforma de planejamento de projetos **Trello**, o qual está servindo o [quadro de tarefas](https://trello.com/b/8BS2JIN4) referenciado na *Tarefa 9 (#9)*
